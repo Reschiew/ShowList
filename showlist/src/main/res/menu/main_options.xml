@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/down"
+        android:icon="@drawable/ic_down"
+        android:title="down"
+        app:showAsAction="always"
+        tools:ignore="HardcodedText" />
+    <item android:id="@+id/time"
+        android:icon="@drawable/ic_time"
+        android:title="time"
+        app:showAsAction="always"
+        tools:ignore="HardcodedText" />
+    <item android:id="@+id/clear"
+        android:icon="@drawable/ic_clear"
+        android:title="clear"
+        app:showAsAction="always"
+        tools:ignore="HardcodedText" />
+</menu>

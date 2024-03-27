@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ShowList</string>
+    <string name="root_logging_level">verbose</string>
+    <string name="action_1">F1</string>
+    <string name="action_2">F2</string>
+    <string name="action_3">F3</string>
+    <string name="action_4">F4</string>
+    <string name="action_5">F5</string>
+    <string name="action_6">F6</string>
+</resources>
